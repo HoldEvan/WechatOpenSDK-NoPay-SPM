@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WechatOpenSDK",
-            path: "WechatOpenSDK-NoPay-Dynamic.xcframework"
+            path: "WechatOpenSDK-NoPay.xcframework"
         )
     ]
 )
